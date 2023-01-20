@@ -138,7 +138,6 @@ Contrastive Learning based on Subgraph Network for Graph Classification
 平均精度：0.89415
 
 ### 一阶子图网络、二阶子图网络结合（取平均）VS原始网络
-![image](https://user-images.githubusercontent.com/107790262/174485910-109df0c0-0312-4599-bc0a-616c7fcdde6d.png)
 
 #### 设置1（早停法设置参数：10，epoch：500）
 数据集：MUTAG，基本模型：GINConv，激活函数：relu，子图模式：一阶子图网络，隐藏层维度：32，设置EPOCH：500
